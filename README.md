@@ -10,7 +10,7 @@ Only Docker to Build image and run application:
 - [Docker](https://docs.docker.com/docker-for-windows/install/)
 
 
-##Getting started
+## Getting started
 
 To run the application, in the directory where the DockerFile file is located, open the Power Shell and type the commands:
 
@@ -31,7 +31,7 @@ After the RUN command, the WSGI server will be running on the local machine list
 
 
 
-##Testing the application
+## Testing the application
 Open your browser and access the address:
 
 - Home: http://localhost:3000/
